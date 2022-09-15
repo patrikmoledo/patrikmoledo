@@ -1,7 +1,7 @@
 ### About me 👋
 
 <p>
-  Hello, I'm a Patrik, nice to meet you! I'm a bBazillian living in Japan, currently studying to be a web developer.
+  Hello, I'm a Patrik, nice to meet you! I'm a Brazillian living in Japan, currently studying to be a web developer.
 </p>
 
 <p>
