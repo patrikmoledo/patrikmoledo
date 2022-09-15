@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  Since my childhood I was always somehow connected to technology, playing video games and watching my brother using the computer, and eventually using it myself basicaly every day. Came to Japan after graduating high scholl to work in an assembly line and save money, and end up learning about the IT and software development field. 
+  Since my childhood I was always somehow connected to technology, playing video games and watching my brother using the computer, and eventually using it myself basicaly every day. Came to Japan after graduating high school to work in an assembly line and save money, and end up learning about the IT and software development field. 
 </p>
 <p>
   Now my goal is to keep improving my coding and language skills to land a job soon.
