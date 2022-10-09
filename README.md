@@ -1,7 +1,7 @@
 ### About me 👋
 
 <p>Hi</p>
-![](https://github.com/moledoPatrik/cat-typing.gif)
+![](cat-typing.gif)
 <!--
 **moledoPatrik/moledoPatrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
