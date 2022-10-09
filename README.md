@@ -1,7 +1,12 @@
 ### About me 👋
 
 <p>Hi</p>
-![](cat-typing.gif)
+![cat-typing](https://user-images.githubusercontent.com/60290942/194756803-06fd8666-68fc-49a5-a407-1d928bfc149a.gif)
+
+
+
+
+
 <!--
 **moledoPatrik/moledoPatrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
