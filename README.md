@@ -1,7 +1,8 @@
 ### Hi 👋
 
 <img src="cat-typing.gif">
-<!--
+<!--![funny-chicken](https://user-images.githubusercontent.com/60290942/196565942-c149cc05-441e-44d5-84a4-2569df18d176.jpeg)
+
 **moledoPatrik/moledoPatrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
