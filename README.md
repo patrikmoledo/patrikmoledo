@@ -1,4 +1,6 @@
-### Hi 👋
+### Hi 👋 I'm Patrik
+
+<p>A full-stack developer based in Tokyo, Japan</p>
 
 <img src="cat-typing.gif">
 
