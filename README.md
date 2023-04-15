@@ -1,6 +1,6 @@
-### Hi 👋 I'm Patrik
+### Hi 👋 I'm Patrik  <img src="cat-typing.gif" align="right"> 
 
-A full-stack developer based in Tokyo, Japan <img src="cat-typing.gif" align="right"> 
+A full-stack developer based in Tokyo, Japan 
 
 - ⚡ Main technologies: Ruby on Rails, Javascript
 - 🌱 I’m currently learning React/Next.js
