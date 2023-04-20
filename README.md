@@ -3,7 +3,7 @@
 A full-stack developer based in Tokyo, Japan 
 
 - ⚡ Main technologies: Ruby on Rails, Javascript
-- 🌱 Learning React/Next.js
+- 🌱 Learning React
 - 🔭 I’m currently working on side projects to improve my Full-stack Development skills
 
 
