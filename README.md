@@ -8,6 +8,7 @@ A full-stack developer based in Tokyo, Japan
 
 
 How to reach out [moledop55@gmail.com](moledop55@gmail.com)
+<p>You can learn more about me in my <a href="http://patrikmoledo.com" target="_blank">Portfolio</a></p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
