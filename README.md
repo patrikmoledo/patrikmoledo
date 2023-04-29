@@ -3,7 +3,7 @@
 A full-stack developer based in Tokyo, Japan 
 
 - ⚡ Main technologies: Ruby on Rails, Javascript
-- 🌱 Learning React
+- 🌱 Learning Python and Flask
 - 💼 You can learn more about me in my [Portfolio](http://patrikmoledo.com)
 - 📫 How to reach me **moledop55@gmail.com**
 
