@@ -4,11 +4,8 @@ A full-stack developer based in Tokyo, Japan
 
 - ⚡ Main technologies: Ruby on Rails, Javascript
 - 🌱 Learning React
-- 🔭 I’m currently working on side projects to improve my Full-stack Development skills
-
-
-How to reach out [moledop55@gmail.com](moledop55@gmail.com)
-<p>You can learn more about me in my <a href="http://patrikmoledo.com" target="_blank">Portfolio</a></p>
+- 💼 You can learn more about me in my [Portfolio](http://patrikmoledo.com)
+- 📫 How to reach me **moledop55@gmail.com**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
@@ -27,6 +24,7 @@ How to reach out [moledop55@gmail.com](moledop55@gmail.com)
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on side projects to improve my Full-stack Development skills
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
