@@ -2,8 +2,11 @@
 
 A Backend Developer based in Tokyo, Japan 
 
+<!--
 - ⚡ Main technologies: Ruby on Rails, Javascript
-- 🌱 Learning Go
+< - 🌱 Learning PHP
+-->
+  
 <p>
   You can learn more about me in my <a href="http://patrikmoledo.com">Portfolio</a> and
   reach out <a href="mailto:moledop55@gmail.com">moledop55@gmail.com</a>
@@ -12,7 +15,6 @@ A Backend Developer based in Tokyo, Japan
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="40" width="52" alt="rails logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="Go logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
 </div>
 
